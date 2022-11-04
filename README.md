@@ -1,0 +1,1 @@
+## This repo contains my solutions for given exercies from ITU-ACM.
